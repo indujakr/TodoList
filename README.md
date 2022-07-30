@@ -1,3 +1,3 @@
 # TodoList
 
-Basic todo list with HTML, Css, Javascript
+Basic todo list with HTML, CSS, Javascript
